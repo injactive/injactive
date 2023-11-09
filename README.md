@@ -10,7 +10,7 @@ Feel free to browse my GitHub Landing Page for an overview of my professional ex
 
 #### 👔 working experiences
 <details>
-<summary>09/19 - today: __Team Manager for Data Science and Artificial Intelligence at IAV GmbH__
+<summary>09/19 - today: **Team Manager for Data Science and Artificial Intelligence at IAV GmbH**
   
     Developing new concepts for applying artificial intelligence in various automotive contexts.  
     Applying and evaluating state-of-the-art methods of artificial intelligence.
