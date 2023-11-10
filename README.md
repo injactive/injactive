@@ -1,46 +1,44 @@
-# Christian Kruschel
+# Dr. Christian Kruschel
 
 ## 🙋‍♂️ hey there! great you are here!
 
-Feel free to browse my GitHub Landing Page for an overview of my professional experiences, qualifications, and interests. If you have any questions or just want to catch up, don't hesitate to get in touch. Looking forward to reconnecting with you!
+**Feel** free to browse my GitHub Landing Page for an overview of my professional experiences, qualifications, and interests. If you have any questions or just want to catch up, don't hesitate to get in touch. Looking forward to reconnecting with you!
 
 *******
 ## curriculum vitae
 🏡 Braunschweig, Germany  💼 [LinkedIn](https://www.linkedin.com/in/christian-kruschel-6a8526127/)
 
 #### 👔 working experiences
-<details>
-<summary>09/19 - today: **Team Manager for Data Science and Artificial Intelligence at IAV GmbH**
-  
-    Developing new concepts for applying artificial intelligence in various automotive contexts.  
-    Applying and evaluating state-of-the-art methods of artificial intelligence.
-</summary>
-</details>
-<details>
-<summary>05/16 - today: __Development Engineer for Data Science and Artificial Intelligence at IAV GmbH__
-  
-    Developing methods for artificial intelligence with focus on machine learning and deep learning
-</summary>
-</details>
-<details>
-<summary>11/14 - 04/16: __Research Fellow / Postdoctoral Researcher at University of Göttingen__
-  
-    Postdoctoral Researcher in the Research Training Group 2088 'Discovering structure in complex data: Statistics meets Optimization and Inverse Problems'.
-</summary>
-Research on probabilistic methods based on high-dimensional geometry. Collaboration with Salzgitter Mannesmann Forschung GmbH on nondestructive testing with ultrasound. Conducted lecture on greedy methods in approximation theory.
-</details>
-<details>
-<summary>07/11 - 06/14: __Research Fellow / Ph.D. Candidate at University of Braunschweig__
-  
-    Research on feasibility of "compressed sensing" (reconstruction of data with undersampled data) with application on computed tomography and high-dimensional geometry.
-</summary>
-</details>
-<details>
-<summary>11/14 - 04/16: __Working Student / Degree Candidate at Siemens AG Healthcare__
-  
-    Tooldeveloping in Python for computed tomography applications.
-</summary>
-</details>
+
+***09/19 - today:* Team Manager for Data Science and Artificial Intelligence at IAV GmbH**
+    *Developing new concepts for applying artificial intelligence in various automotive contexts.*
+    *Applying and evaluating state-of-the-art methods of artificial intelligence.*
+
+***05/16 - today:* Development Engineer for Data Science and Artificial Intelligence at IAV GmbH**
+    *Developing methods for artificial intelligence with focus on machine learning and deep learning*
+
+***11/14 - 04/16:* Research Fellow / Postdoctoral Researcher at University of Göttingen**
+    *Postdoctoral Researcher in the Research Training Group 2088 'Discovering structure in complex data: Statistics meets Optimization and Inverse Problems'.*
+    *Research on probabilistic methods based on high-dimensional geometry. Collaboration with Salzgitter Mannesmann Forschung GmbH on nondestructive testing with* *ultrasound. Conducted lecture on greedy methods in approximation theory.*
+
+***07/11 - 06/14:* Research Fellow / Ph.D. Candidate at University of Braunschweig**
+    *Research on feasibility of "compressed sensing" (reconstruction of data with undersampled data) with application on computed tomography and high-dimensional* *geometry.*
+
+***10/10 - 11/10:* Working Student / Degree Candidate at Siemens AG Healthcare**
+    *Tooldeveloping in Python for computed tomography applications.*
+
+
+#### 📝 education
+***2011 - 2014:* Doctoral studies: Mathematics at Technical University of Braunschweig**
+    *Focus on convex optimization and high-dimensional geometry*
+
+***2009 - 2011:* Master of Science: Mathematics / Computer Science at Technical University of Braunschweig**
+    *Focus on Image Processing and Inverse Problems*
+
+***2005 - 2009:* Bachelor of Science: Mathematics / Computer Science at Technical University of Braunschweig**
+    *Focus on numerical analysis and numerical linear algebra*
+
+
 
 <!--
 **injactive/injactive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
