@@ -6,7 +6,7 @@
 
 *******
 ## curriculum vitae
-🏡 Braunschweig, Germany  💼 [LinkedIn](https://www.linkedin.com/in/christian-kruschel-6a8526127/)
+🏡 Braunschweig, Germany | 💼 [LinkedIn](https://www.linkedin.com/in/christian-kruschel-6a8526127/) | 📝 [Medium Blog](https://medium.com/@does.this.look.injective)
 
 #### 👔 working experiences
 
@@ -28,14 +28,17 @@
     *Tooldeveloping in Python for computed tomography applications.*
 
 
-#### 📝 education
+#### 📖 education
 ***2011 - 2014:* Doctoral studies: Mathematics at Technical University of Braunschweig**
+
     *Focus on convex optimization and high-dimensional geometry*
 
 ***2009 - 2011:* Master of Science: Mathematics / Computer Science at Technical University of Braunschweig**
+
     *Focus on Image Processing and Inverse Problems*
 
 ***2005 - 2009:* Bachelor of Science: Mathematics / Computer Science at Technical University of Braunschweig**
+
     *Focus on numerical analysis and numerical linear algebra*
 
 
