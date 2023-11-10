@@ -31,15 +31,15 @@
 #### 📖 education
 ***2011 - 2014:* Doctoral studies: Mathematics at Technical University of Braunschweig**
 
-    *Focus on convex optimization and high-dimensional geometry*
+Focus on convex optimization and high-dimensional geometry
 
 ***2009 - 2011:* Master of Science: Mathematics / Computer Science at Technical University of Braunschweig**
 
-    *Focus on Image Processing and Inverse Problems*
+Focus on Image Processing and Inverse Problems
 
 ***2005 - 2009:* Bachelor of Science: Mathematics / Computer Science at Technical University of Braunschweig**
 
-    *Focus on numerical analysis and numerical linear algebra*
+Focus on numerical analysis and numerical linear algebra
 
 
 
