@@ -106,6 +106,22 @@ TU Braunschweig, Institut for Analysis and Algebra, Supervisor: Prof. Dr. Dirk L
 **2015** ***Greedy Algorithms in Approximation Theory***, Lecture at University of Göttingen
 
 #### 💡 professional development and certificates
+<details>
+<summary>
+General Concepts of AI
+</summary>
+
+</details>
+
+
+<details>
+<summary>
+Responsible and Safe AI
+</summary>
+
+* Nov 2023: Introduction to Responsible AI, Online Course at [Google Cloud](https://www.cloudskillsboost.google/course_templates/554)
+* Nov 2022: Safety Assurance for Artificial Intelligence, Seminar with exam at [Fraunhofer IESE](https://www.iese.fraunhofer.de/en/seminare_training/data-scientist-assuring-safety.html)
+</details>
 
 
 <!--
